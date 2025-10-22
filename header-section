@@ -1,0 +1,18 @@
+<!-- Header Section -->
+  <header>
+    <div class="header-content">
+      <!-- Profile Image -->
+      <img src="my.jpg" alt="Akhila Photo" class="profile-img">
+      
+      <!-- Welcome Text -->
+      <h1>Welcome to My Portfolio</h1>
+      <h2>BANDELA AKHILA</h2>
+      <p>Explore my projects and feel free to contact me!</p>
+
+      <!-- Buttons -->
+      <div class="button-group">
+        <a href="#projects" class="btn">View Projects</a>
+        <a href="#contact" class="btn btn-outline">Contact Me</a>
+      </div>
+    </div>
+  </header>
