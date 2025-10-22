@@ -1,0 +1,13 @@
+<!-- Projects Section -->
+  <section id="projects">
+    <h2>My Projects</h2>
+    <div class="project-container">
+      <div class="project">
+        <a href="https://github.com/bandelaakhila/wheather-dashboard"><img src="wheather_dashboard.jpg" alt="Project 1"></a>
+        <h3>Project On</h3>
+        <p>A simple wheather dashboard</p>
+      </div>
+      
+    </div>
+
+  </section>
